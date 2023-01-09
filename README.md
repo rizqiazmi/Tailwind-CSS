@@ -1,2 +1,2 @@
 # Tailwind-CSS
-A utility-first CSS Framework that packed with classes.
+A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
